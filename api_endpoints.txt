@@ -1,0 +1,6 @@
+# API Endpoints & Workers.dev URLs Found
+
+## Regular API Endpoints:
+
+https://fonts.googleapis.com/css2?family=Noto+Naskh+Arabic&family=Montserrat:wght@400;700&display=swap
+
